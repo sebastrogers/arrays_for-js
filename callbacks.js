@@ -4,6 +4,8 @@ const nomes = ["Evaldo", "Mari", "Camis"];
 //  console.log(nome);
 // });
 
+//arrow function
+
 // nomes.forEach((nome) => {
 //  console.log(nome);
 // });
